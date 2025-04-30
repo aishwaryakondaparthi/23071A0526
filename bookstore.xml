@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+    <book>
+        <title>JavaScript: The Good Parts</title>
+        <author>Douglas Crockford</author>
+        <genre>Programming</genre>
+        <price>29.99</price>
+        <publish_date>2008-05-15</publish_date>
+        <description>A deep dive into JavaScript programming.</description>
+    </book>
+    <book>
+        <title>Learning Python</title>
+        <author>Mark Lutz</author>
+        <genre>Programming</genre>
+        <price>39.99</price>
+        <publish_date>2013-06-20</publish_date>
+        <description>Comprehensive guide to Python programming.</description>
+    </book>
+</bookstore>
